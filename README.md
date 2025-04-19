@@ -21,7 +21,7 @@ https://testapi.getlokalapp.com/common/jobs?page=1
 | ![Jobs Screen](Demo/Web%20View.png) |
 
 
-### ✅ Web Screen
+### ✅ Mobile Screen
 | ![Jobs Screen](Demo/Mobile%20View.png) |
 
 ---
@@ -35,7 +35,7 @@ To run this project locally:
 git clone https://github.com/Harendrasingh1/React-Native-Live-Coding.git
 
 # Navigate to project directory
-cd Job-Finder-App
+cd React-Native-Live-Coding
 
 # Install dependencies
 npm install
